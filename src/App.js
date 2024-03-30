@@ -4,7 +4,7 @@ import { Header } from './Components/Header';
 import { Page1 } from './Components/Page1';
 import { Page2 } from './Components/Page2';
 import { Page3 } from './Components/Page3';
-import TestimonialSlider, { Page4 } from './Components/Page4';
+import  { Page4 } from './Components/Page4';
 import { Page5 } from './Components/Page5';
 import { Rectangle } from './Components/Rectangle';
 
