@@ -41,7 +41,7 @@ export const Page2 = () => {
                     <div className=' my-6 md:mt-24'>
                         <p className='text-[#0B132A] text-lg md:text-2xl font-medium  text-center'>Free</p>
                         <div className='flex justify-center mt-1 md:mt-3 font-medium md:font-bold text-sm md:text-base'>
-                            <a className='text-[#F53855] border-2  rounded-full border-[#F53855] hover:bg-[#F53855] hover:shadow-xl hover:shadow-[#F5383859] hover:text-[#FFFFFF] py-2 px-6 md:px-12 '>Select</a>
+                            <button className='text-[#F53855] border-2  rounded-full border-[#F53855] hover:bg-[#F53855] hover:shadow-xl hover:shadow-[#F5383859] hover:text-[#FFFFFF] py-2 px-6 md:px-12 '>Select</button>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@ export const Page2 = () => {
                     <div className=' my-6  md:mt-14'>
                         <p className='text-[#0B132A] text-lg md:text-2xl font-medium  text-center'>$9 / mo</p>
                         <div className='flex justify-center mt-1 md:mt-3 font-medium md:font-bold text-sm md:text-base'>
-                            <a className='text-[#F53855] border-2  rounded-full border-[#F53855] hover:bg-[#F53855] hover:shadow-xl hover:shadow-[#F5383859] hover:text-[#FFFFFF] py-2 px-6 md:px-12  '>Select</a>
+                            <button className='text-[#F53855] border-2  rounded-full border-[#F53855] hover:bg-[#F53855] hover:shadow-xl hover:shadow-[#F5383859] hover:text-[#FFFFFF] py-2 px-6 md:px-12  '>Select</button>
                         </div>
                     </div>
 

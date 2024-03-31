@@ -16,7 +16,7 @@ export const About = () => {
                         <p className='hidden md:block lg:mt-1'>discover interesting features from us.</p>
                     </div>
                     <div className='mt-4 md:mt-10 lg:mt-16 '>
-                        <a className='rounded-lg  bg-[#F53838]  hover:shadow-xl hover:shadow-[#F5383859] py-2 px-6 md:py-5 md:px-20 text-sm md:font-bold md:text-base text-[#ffff]' href='#'>Get Started</a>
+                        <button className='rounded-lg  bg-[#F53838]  hover:shadow-xl hover:shadow-[#F5383859] py-2 px-6 md:py-5 md:px-20 text-sm md:font-bold md:text-base text-[#ffff]' >Get Started</button>
                     </div>
                 </div>
 
