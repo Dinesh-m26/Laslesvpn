@@ -14,7 +14,7 @@ export const Page1 = () => {
                     <span>Features You Can Use</span>
                 </p>
                 <p className='mb-4 text-[#4F5665]  text-xs md:text-base font-medium'>
-                   <span>You can explore the features that we provide with fun and </span> <br/>
+                   <span>You can explore the features that we provide with fun and </span> <br className='hidden md:block'/>
                    <span>have their own functions each feature.</span> 
                 </p>
                 <div className='flex items-center mb-4 text-[#4F5665]  text-xs md:text-base font-medium' >
