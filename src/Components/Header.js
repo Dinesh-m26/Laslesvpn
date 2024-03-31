@@ -22,7 +22,7 @@ export const Header = () => {
                     </svg>
                 </div>
 
-                <div className='hidden lg:block lg:flex gap-7 text-base font-normal md:my-auto mx-auto text-[#4F5665]' >
+                <div className='hidden lg:block lg:flex gap-7 text-base font-normal md:my-auto mx-auto text-[#4F5665] hover:text-[#F53855]' >
                     <a href='/'>About</a>
                     <a href='#features'>Features</a>
                     <a href='#pricing'>Pricing</a>
