@@ -28,30 +28,30 @@ export const Footer = () => {
                 <div className='w-3/4'>
                     <p className='text-[#0B132A] text-medium md:text-lg font-medium mb-4'>Product</p>
                     <ul className='text-[#4F5665] text-sm md:text-base font-normal space-y-4'>
-                        <li><a href='#'>Download</a></li>
-                        <li><a href='#'>Pricing</a></li>
-                        <li><a href='#'>Locations</a></li>
-                        <li><a href='#'>Server</a></li>
-                        <li><a href='#'>Countries</a></li>
-                        <li><a href='#'>Blog</a></li>
+                        <li><button>Download</button></li>
+                        <li><button>Pricing</button></li>
+                        <li><button>Locations</button></li>
+                        <li><button>Server</button></li>
+                        <li><button>Countries</button></li>
+                        <li><button>Blog</button></li>
                     </ul>
                 </div>
                 <div className='w-3/4'>
                     <p className='text-[#0B132A] text-medium md:text-lg font-medium mb-4'>Engage</p>
                     <ul className='text-[#4F5665] text-sm md:text-base font-normal space-y-4'>
-                        <li><a href='#'>LaslesVPN?</a></li>
-                        <li><a href='#'>FAQ</a></li>
-                        <li><a href='#'>Tutorials</a></li>
-                        <li><a href='#'>About Us</a></li>
-                        <li><a href='#'>Privacy Policy</a></li>
-                        <li><a href='#'>Terms of Service</a></li>
+                        <li><button>LaslesVPN?</button></li>
+                        <li><button>FAQ</button></li>
+                        <li><button>Tutorials</button></li>
+                        <li><button>About Us</button></li>
+                        <li><button>Privacy Policy</button></li>
+                        <li><button>Terms of Service</button></li>
                     </ul>
                 </div>
                 <div className='w-3/4 '>
                     <p className='text-[#0B132A] text-medium md:text-lg font-medium mb-4'>Earn Money</p>
                     <ul className='text-[#4F5665] text-sm md:text-base font-normal space-y-4'>
-                        <li><a href='#'>Affiliate</a></li>
-                        <li><a href='#'>Become Partner</a></li>
+                        <li><button>Affiliate</button></li>
+                        <li><button>Become Partner</button></li>
                     </ul>
                 </div>
             </div>

@@ -9,7 +9,7 @@ export const Rectangle = () => {
             <div className='md:shadow-md '>
                 <div className='md:flex justify-around px-10 py-5 md:p-10 mx-auto mt-2 md:mt-20 '>
                     <div className='flex mb-4  '>
-                        <img src={user} />
+                        <img src={user} alt='user'/>
                         <div className='flex flex-col ml-7 '>
                             <p className='text-[#0B132A] font-bold text-lg md:text-2xl  ' >90+</p>
                             <p className=' text-[#4F5665] text-base md:text-normal '>Users</p>
@@ -17,7 +17,7 @@ export const Rectangle = () => {
                     </div>
                     <div className='md:border-r-2 '></div>
                     <div className='flex mb-4 '>
-                        <img src={location} />
+                        <img src={location} alt='location' />
                         <div className='flex flex-col ml-7 '>
                             <p className='text-[#0B132A] font-bold text-lg md:text-2xl  ' >30+</p>
                             <p className=' text-[#4F5665] text-base md:text-normal '>Locations</p>
@@ -27,7 +27,7 @@ export const Rectangle = () => {
                     <div className='md:border-r-2 '></div>
 
                     <div className='flex mb-4 '>
-                        <img src={server} />
+                        <img src={server} alt='server'/>
                         <div className='flex flex-col ml-7 '>
                             <p className='text-[#0B132A] font-bold text-lg md:text-2xl  ' >50+</p>
                             <p className=' text-[#4F5665] text-base md:text-normal '>Servers</p>

@@ -22,15 +22,15 @@ export const Page1 = () => {
                     <p>Powerful online protection.</p>
                 </div>
                 <div className='flex items-center mb-4 text-[#4F5665]  text-xs md:text-base font-medium' >
-                    <img src={check} className='mr-1 md:mr-3' />
+                    <img src={check} alt='check' className='mr-1 md:mr-3' />
                     <p>Internet without borders.</p>
                 </div>
                 <div className='flex items-center mb-4 text-[#4F5665]  text-xs md:text-base font-medium' >
-                    <img src={check} className='mr-1 md:mr-3'/>
+                    <img src={check} alt='check' className='mr-1 md:mr-3'/>
                     <p>Supercharged VPN.</p>
                 </div>
                 <div className='flex items-center mb-4 text-[#4F5665]  text-xs md:text-base font-medium' >
-                    <img src={check} className='mr-1 md:mr-3' />
+                    <img src={check} alt='check' className='mr-1 md:mr-3' />
                     <p>No specific time limits.</p>
                 </div>
             </div>

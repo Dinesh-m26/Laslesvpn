@@ -96,7 +96,7 @@ export const Page4 = () => {
                                     </div>
                                     <div className="flex my-auto  ml-auto  ">
                                         {review.starating}
-                                        <img src={star} className='ml-2 my-auto w-[13.23px] h-[12.64px] ' />
+                                        <img src={star} alt='star' className='ml-2 my-auto w-[13.23px] h-[12.64px] ' />
                                     </div>
                                 </div>
                                 <p className="text-[#0B132A] text-sm md:text-base font-normal mt-4">{review.para}</p>

@@ -12,7 +12,7 @@ export const Page5 = () => {
                         <p className='text-[#4F5665] text-sm md:text-base font-normal mt-2 mb-4 md:mb-0'>Let's subscribe with us and find the fun.</p>
                     </div>
                     <div className='my-auto ml-auto  '>
-                        <a className='rounded-lg  bg-[#F53838]  hover:shadow-xl hover:shadow-[#F5383859] py-2 px-6 md:py-5 md:px-20 text-sm md:font-bold md:text-base text-[#ffff]'>Get Started</a>
+                        <button className='rounded-lg  bg-[#F53838]  hover:shadow-xl hover:shadow-[#F5383859] py-2 px-6 md:py-5 md:px-20 text-sm md:font-bold md:text-base text-[#ffff]'>Get Started</button>
                     </div>
                 </div>
             </div>

@@ -16,12 +16,12 @@ export const About = () => {
                         <p className='hidden md:block lg:mt-1'>discover interesting features from us.</p>
                     </div>
                     <div className='mt-4 md:mt-10 lg:mt-16 '>
-                        <a className='rounded-lg  bg-[#F53838]  hover:shadow-xl hover:shadow-[#F5383859] py-2 px-6 md:py-5 md:px-20 text-sm md:font-bold md:text-base text-[#ffff]'>Get Started</a>
+                        <a className='rounded-lg  bg-[#F53838]  hover:shadow-xl hover:shadow-[#F5383859] py-2 px-6 md:py-5 md:px-20 text-sm md:font-bold md:text-base text-[#ffff]' href='#'>Get Started</a>
                     </div>
                 </div>
 
                 <div className='hidden lg:block w-1/2 mt-4 '>
-                    <img src={photo1} />
+                    <img src={photo1} alt='photo1' />
                 </div>
             </div>
 
