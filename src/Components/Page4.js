@@ -78,7 +78,7 @@ export const Page4 = () => {
                 <p className="text-[#0B132A] text-2xl md:text-4xl font-medium text-center">
                     Trusted by Thousands of <br className='hidden md:block'/> Happy Customer
                 </p>
-                <p className="text-[#4F5665] text-sm md:text-base font-normal text-center mt-2 md:mt-5">These are the stories of our customers who have joined us with great <br />pleasure when using this crazy feature.</p>
+                <p className="text-[#4F5665] text-sm md:text-base font-normal text-center mt-2 md:mt-5">These are the stories of our customers who have joined us with great <br className='hidden md:block' />pleasure when using this crazy feature.</p>
             </div>
             <div>
                 <div>
