@@ -22,12 +22,12 @@ export const Header = () => {
                     </svg>
                 </div>
 
-                <div className='hidden lg:block lg:flex gap-7 text-base font-normal md:my-auto mx-auto text-[#4F5665] hover:text-[#F53855]' >
-                    <a href='/'>About</a>
-                    <a href='#features'>Features</a>
-                    <a href='#pricing'>Pricing</a>
-                    <a href='#testimonials'>Testimonials</a>
-                    <a href='#help'>Help</a>
+                <div className='hidden lg:block lg:flex gap-7 text-base font-normal md:my-auto mx-auto text-[#4F5665] ' >
+                    <a className='hover:text-[#F53855]' href='/'>About</a>
+                    <a className='hover:text-[#F53855]' href='#features'>Features</a>
+                    <a className='hover:text-[#F53855]' href='#pricing'>Pricing</a>
+                    <a className='hover:text-[#F53855]' href='#testimonials'>Testimonials</a>
+                    <a className='hover:text-[#F53855]' href='#help'>Help</a>
                 </div>
                 <div className='hidden md:block my-auto ml-auto font-medium text-base'>
                     <button className='mr-4'>Sign In</button>
