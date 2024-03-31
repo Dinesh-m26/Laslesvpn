@@ -11,7 +11,7 @@ export const Page2 = () => {
 
             <div className='flex-wrap text-center'>
                 <p className='text-[#0B132A] text-2xl md:text-4xl font-medium '>Choose Your Plan</p>
-                <p className='text-[#4F5665] text-sm md:text-base font-normal mt-2 md:mt-6'><span>Let's choose the package that is best for you and explore it happily and</span> <br /> <span> cheerfully.</span></p>
+                <p className='text-[#4F5665] text-sm md:text-base font-normal mt-2 md:mt-6'><span>Let's choose the package that is best for you and explore it happily and</span> <br className='hidden md:block' /> <span> cheerfully.</span></p>
             </div>
             <div className='md:flex justify-around mt-4 md:mt-14 '>
                 <div className='flex-wrap mb-4 md:mb-0 md:w-1/4 border-2 border-[#DDDDDD] hover:border-[#F53838] rounded-lg '>
