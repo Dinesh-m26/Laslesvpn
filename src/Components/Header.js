@@ -31,7 +31,7 @@ export const Header = () => {
                 </div>
                 <div className='hidden md:block my-auto ml-auto font-medium text-base'>
                     <button className='mr-4'>Sign In</button>
-                    <button className='text-[#F53855] rounded-[50px] border border-solid border-[#F53855] hover:bg-[#F53855] py-2 px-6'>Sign Up</button>
+                    <button className='text-[#F53855] rounded-[50px] border border-solid border-[#F53855] hover:bg-[#F53855] hover:text-white py-2 px-6'>Sign Up</button>
                 </div>
             
             </div>
