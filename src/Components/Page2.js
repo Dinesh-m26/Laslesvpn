@@ -17,7 +17,7 @@ export const Page2 = () => {
                 <div className='flex-wrap mb-4 md:mb-0 md:w-1/4 border-2 border-[#DDDDDD] hover:border-[#F53838] rounded-lg '>
                     <img src={free} alt='free' className='mx-auto mt-7 lg:mt-16' />
                     <p className='text-[#0B132A] text-lg font-medium mt-5 text-center '>Free Plan</p>
-                    <div className='ml-10 md:ml-0 lg:ml-16 text-[#4F5665] text-sm font-normal flex-wrap '>
+                    <div className='ml-12 md:ml-0 lg:ml-16 text-[#4F5665] text-sm font-normal flex-wrap '>
                         
                             <div className='flex items-center gap-x-3 mt-4 '>
                                 <img src={tick} alt='tick' />
@@ -49,7 +49,7 @@ export const Page2 = () => {
                 <div className='flex-wrap mb-4 md:mb-0  md:w-1/4 border-2 border-[#DDDDDD] hover:border-[#F53838] rounded-lg '>
                     <img src={standard} alt='standard' className='mx-auto mt-7 lg:mt-16' />
                     <p className='text-[#0B132A] text-lg font-medium mt-5 text-center '>Standard</p>
-                    <div className='ml-10 md:ml-0 lg:ml-16 text-[#4F5665] text-sm font-normal flex-wrap'>
+                    <div className='ml-12 md:ml-0 lg:ml-16 text-[#4F5665] text-sm font-normal flex-wrap'>
                         <div className='flex items-start gap-x-3 mt-4'>
                             <img src={tick} alt='tick' />
                             <p>Unlimited Bandwidth</p>
@@ -83,7 +83,7 @@ export const Page2 = () => {
                 <div className='flex-wrap mb-4 md:mb-0  md:w-1/4 border-2 border-[#DDDDDD] hover:border-[#F53838] rounded-lg'>
                     <img src={premium} alt='premium' className='mx-auto mt-7 lg:mt-16' />
                     <p className='text-[#0B132A] text-lg font-medium mt-5 text-center'>Premium</p>
-                    <div className='ml-10 md:ml-0 lg:ml-16 text-[#4F5665] text-sm font-normal flex-wrap'>
+                    <div className='ml-12 md:ml-0 lg:ml-16 text-[#4F5665] text-sm font-normal flex-wrap'>
                         <div className='flex items-start gap-x-3 mt-4'>
                             <img src={tick} alt='tick' />
                             <p>Unlimited Bandwidth</p>

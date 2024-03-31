@@ -7,7 +7,7 @@ import instagram from './assets/Instagram.png';
 export const Footer = () => {
     return (
         
-        <div id="help" className='flex-wrap md:flex md:justify-between bg-[#F8F8F8] pb-5 md:pb-10 px-5 md:px-12 lg:px-24 mt-6 md:mt-0'>
+        <div id="help" className='flex-wrap md:flex md:justify-between bg-[#F8F8F8] pt-3 md:pt-0 pb-5 md:pb-10 px-5 md:px-12 lg:px-24 mt-6 md:mt-0'>
             <div className='w-full md:w-1/2  mx-auto'>
                 <div className='flex '>
                     <img src={logo} alt='logo' className='mr-2 text-sm ' />
